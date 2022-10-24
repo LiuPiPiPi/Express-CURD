@@ -44,18 +44,18 @@ npm install axios --save
 
 **目录结构：**
 
-nodejs-express
-├── conf
-│   └── db.config.js
-├── dao
-│   ├── userDao.js
-│   └── userMapper.js
-├── routes
-│   ├── index.js
-│   └── user.js
-├── utils
-├── app.js
-├── package.json
+nodejs-express\
+├── conf\
+│   └── db.config.js\
+├── dao\
+│   ├── userDao.js\
+│   └── userMapper.js\
+├── routes\
+│   ├── index.js\
+│   └── user.js\
+├── utils\
+├── app.js\
+├── package.json\
 └── package-lock.json
 
 ### 连接数据库
